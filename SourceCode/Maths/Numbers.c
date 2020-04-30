@@ -8,6 +8,11 @@ int subtract(int x, int y){
 	return x-y;
 }
 
+// Fuctions Added in Testing Branch
+int mul(int x, int y){
+	return x*y;
+}
+
 int main(){
 	
 	int t;
