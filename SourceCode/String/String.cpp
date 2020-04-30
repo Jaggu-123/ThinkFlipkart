@@ -8,6 +8,10 @@ void toUpper(char Hello[]){
 	printf("Changes to UPPER.....");	
 }
 
+void toLower(char Hello[]){
+	printf("Changes to LOWER.....");	
+}
+
 int main(){
 
 	char Hello[] = "Hello Sir!";
