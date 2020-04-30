@@ -13,6 +13,11 @@ int mul(int x, int y){
 	return x*y;
 }
 
+// Fuctions Added in Testing BugFix Branch
+int div(int x, int y){
+	return (y > 0 ? x/y : -1);
+}
+
 int main(){
 	
 	int t;
