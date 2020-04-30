@@ -5,7 +5,8 @@ int sum(int x, int y){
 }
 
 int subtract(int x, int y){
-	return x-y;
+	int result = x - y;
+	return result;
 }
 
 // Fuctions Added in Testing Branch
